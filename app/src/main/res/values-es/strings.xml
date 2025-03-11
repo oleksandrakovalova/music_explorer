@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in_title">¡Bienvenido!\nPor favor, inicia sesión con tu cuenta de Spotify para continuar</string>
+    <string name="sign_in_button">Iniciar sesión con Spotify</string>
+    <string name="artists_label">Intérpretes</string>
+    <string name="tracks_label">Composiciones</string>
+    <string name="users_top_label">Tops de usuario</string>
+    <string name="year">Año</string>
+    <string name="six_months">6 meses</string>
+    <string name="month">Mes</string>
+    <string name="currently_playing">Actualmente jugando…</string>
+    <string name="home_label">Inicio</string>
+    <string name="search_label">Búsqueda</string>
+    <string name="search_placeholder">¿Qué quiere encontrar?</string>
+</resources>

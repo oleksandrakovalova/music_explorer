@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Music Explorer</string>
+    <string name="sign_in_title">Welcome!\nPlease, sign in with Spotify Account to continue</string>
+    <string name="sign_in_button">Sign in with Spotify</string>
+    <string name="artists_label">Artists</string>
+    <string name="tracks_label">Tracks</string>
+    <string name="users_top_label">User\'s Top</string>
+    <string name="year">Year</string>
+    <string name="six_months">6 months</string>
+    <string name="month">Month</string>
+    <string name="currently_playing">Currently playing…</string>
+    <string name="home_label">Home</string>
+    <string name="search_label">Search</string>
+    <string name="search_placeholder">What do you want to find?</string>
+</resources>

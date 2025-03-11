@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="container_inner_padding">16dp</dimen>
+    <dimen name="list_item_vertical_padding">8dp</dimen>
+    <dimen name="text_padding">4dp</dimen>
+    <dimen name="icon_padding">4dp</dimen>
+    <dimen name="text_button_space">24dp</dimen>
+    <dimen name="viewers_icon_size">13dp</dimen>
+</resources>

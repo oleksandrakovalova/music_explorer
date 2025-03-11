@@ -1,0 +1,14 @@
+<resources>
+    <string name="sign_in_title">Вітаю!\nБудь ласка, увійдіть до свого акаунту Spotify, щоб продовжити</string>
+    <string name="sign_in_button">Увійти через Spotify</string>
+    <string name="artists_label">Виконавці</string>
+    <string name="tracks_label">Композиції</string>
+    <string name="users_top_label">Топи користувача</string>
+    <string name="year">Рік</string>
+    <string name="six_months">6 місяців</string>
+    <string name="month">Місяць</string>
+    <string name="currently_playing">Відтворюється зараз…</string>
+    <string name="home_label">Головна</string>
+    <string name="search_label">Пошук</string>
+    <string name="search_placeholder">Що ви хочете знайти?</string>
+</resources>
